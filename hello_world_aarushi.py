@@ -3,7 +3,7 @@
 # AUTHOR: Aarushi Arya
 # GITHUB: https://github.com/aarushi15002
 print "Enter number"
-n = 7
+n = 9
 
 def fib(a,b,c,d):
     print c;
