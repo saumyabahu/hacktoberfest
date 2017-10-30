@@ -6,5 +6,5 @@ def s(a):
         return 1;
     else:
         return (a+s(a-1))    
-num = 5
+num = 8
 print "sum of",num," numbers is ",s(num)
